@@ -16,5 +16,5 @@
 </cfquery>
 
 <cfoutput>
-    <p>Registration successful! Please <a href="login.cfm">login</a> to access your account.</p>
+    <p>Registration successful! Please <a href="../views/login.cfm">login</a> to access your account.</p>
 </cfoutput>
